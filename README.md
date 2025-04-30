@@ -1,4 +1,5 @@
-git 
+![banner](https://raw.githubusercontent.com/raphaelkihiro/raphaelkihiro/main/A_2D_digital_graphic_design_banner_features_the_na.png)
+
 ## Hey👋, I'm Raph!
  I'm a passionate software developer exploring web technologies and open-source projects💻.
  Currently building my skills through hands-on projects and would love to collaborate on creative solutions. Let's connect and grow together! 🚀
