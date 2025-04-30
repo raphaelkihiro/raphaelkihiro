@@ -1,4 +1,5 @@
-![banner](https://sdmntpreastus2.oaiusercontent.com/files/00000000-fcc8-61f6-ae84-78be71b28df1/raw?se=2025-04-30T17%3A17%3A07Z&sp=r&sv=2024-08-04&sr=b&scid=45c1c29f-2477-5756-b18d-e6670d6157dd&skoid=ac1d63ad-0c69-4017-8785-7a50eb04382c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-30T11%3A27%3A49Z&ske=2025-05-01T11%3A27%3A49Z&sks=b&skv=2024-08-04&sig=zkq0tdgHj54bb8LSTFjzKvhmpE/AuqGy4REViAM%2BhO0%3D)
+<img src="https://sdmntpreastus2.oaiusercontent.com/files/00000000-fcc8-61f6-ae84-78be71b28df1/raw?se=2025-04-30T17%3A17%3A07Z&sp=r&sv=2024-08-04&sr=b&scid=45c1c29f-2477-5756-b18d-e6670d6157dd&skoid=ac1d63ad-0c69-4017-8785-7a50eb04382c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-30T11%3A27%3A49Z&ske=2025-05-01T11%3A27%3A49Z&sks=b&skv=2024-08-04&sig=zkq0tdgHj54bb8LSTFjzKvhmpE/AuqGy4REViAM%2BhO0%3D" alt="banner" width="100%" height="200"/>
+
 ## Hey👋, I'm Raph!
  I'm a passionate software developer exploring web technologies and open-source projects💻.
  Currently building my skills through hands-on projects and would love to collaborate on creative solutions. Let's connect and grow together! 🚀
