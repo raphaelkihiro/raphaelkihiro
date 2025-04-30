@@ -1,5 +1,6 @@
+git 
 ## Hey👋, I'm Raph!
- I'm a passionate ssoftware developer exploring web technologies and open-source projects💻.
+ I'm a passionate software developer exploring web technologies and open-source projects💻.
  Currently building my skills through hands-on projects and would love to collaborate on creative solutions. Let's connect and grow together! 🚀
 # Fun fact⚡
 I can't swim, I know right 🙈🙈😂.
